@@ -1,6 +1,5 @@
-
 import { 
-  Video, MessageCircle, Flask, UserPlus, MapPin, Brain, 
+  Video, MessageCircle, Beaker, UserPlus, MapPin, Brain, 
   Users, Building, Lock, Bot, School 
 } from "lucide-react";
 
@@ -14,7 +13,7 @@ const features = [
   {
     title: "Genetic Testing & Early Detection",
     description: "Access information and services for early diagnosis and intervention planning.",
-    icon: Flask,
+    icon: Beaker,
     color: "bg-gentle-green"
   },
   {
