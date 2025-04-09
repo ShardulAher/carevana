@@ -15,11 +15,11 @@ const Header = () => {
       <div className="container mx-auto px-4 md:px-8 py-4 flex justify-between items-center">
         <div className="flex items-center gap-2">
           <div className="h-10 w-10 rounded-full bg-gentle-gradient flex items-center justify-center">
-            <span className="text-white font-poppins font-bold text-xl">G</span>
+            <span className="text-white font-poppins font-bold text-xl">C</span>
           </div>
           <h1 className="font-poppins font-bold text-xl md:text-2xl">
-            <span className="text-gentle-blue">Gentle</span>
-            <span className="text-text-dark">Hearts</span>
+            <span className="text-gentle-blue">Care</span>
+            <span className="text-text-dark">vana</span>
           </h1>
         </div>
 

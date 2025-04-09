@@ -17,11 +17,11 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-6">
               <div className="h-10 w-10 rounded-full bg-gentle-gradient flex items-center justify-center">
-                <span className="text-white font-poppins font-bold text-xl">G</span>
+                <span className="text-white font-poppins font-bold text-xl">C</span>
               </div>
               <h2 className="font-poppins font-bold text-xl">
-                <span className="text-gentle-blue">Gentle</span>
-                <span className="text-text-dark">Hearts</span>
+                <span className="text-gentle-blue">Care</span>
+                <span className="text-text-dark">vana</span>
               </h2>
             </div>
             <p className="text-text-light mb-6">
@@ -104,7 +104,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-200 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-text-light text-sm">
-            © {new Date().getFullYear()} GentleHearts. All rights reserved.
+            © {new Date().getFullYear()} Carevana. All rights reserved.
           </p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <a href="#" className="text-text-light hover:text-gentle-blue transition-colors text-sm">Privacy Policy</a>
